@@ -1,5 +1,5 @@
-# Documentat_test
-Тестовое задание. Описание секретных чатов в Telegram для Android.
+# Documentat.io тестовое задание
+Задача: описание функционала секретных чатов в Telegram для Android.
 
 **Весь результат работы в файле `secret-chats-android.md`**
 
